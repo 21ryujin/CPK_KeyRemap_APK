@@ -1,0 +1,13 @@
+type OVERLAY
+
+# 設定アプリ無しでCtrlキーを有効化
+map key 240 CTRL_LEFT
+
+# ClicksキーをCtrlキーに割り当て
+map key 15 ZENKAKU_HANKAKU
+
+# 丸４つキーをカーソル右に割り当て
+map key 125 DPAD_LEFT
+
+# 丸６つキーをカーソル右に割り当て
+map key 374 DPAD_RIGHT
