@@ -1,3 +1,6 @@
+
+
+■楽天ミニ（C330）、moto g7、F(x)tec Pro1-X で動作
 type OVERLAY
 
 # 設定アプリ無しでCtrlキーを有効化
@@ -11,3 +14,43 @@ map key 125 DPAD_LEFT
 
 # 丸６つキーをカーソル右に割り当て
 map key 374 DPAD_RIGHT
+
+# マイクキーをShiftに割り当て
+map key 582 SHIFT_LEFT
+
+
+
+■Moto edge50s PRO
+type OVERLAY
+
+# 設定アプリ無しでCtrlキーを有効化
+map key 240 CTRL_LEFT
+
+# ClicksキーをCtrlキーに割り当て
+map key 15 ZENKAKU_HANKAKU
+
+# 丸４つキーをカーソル右に割り当て
+map key 125 DPAD_LEFT
+
+# 丸６つキーをカーソル右に割り当て
+map key 56 DPAD_RIGHT
+
+# マイクキーをShiftに割り当て
+map key 582 SHIFT_LEFT
+
+
+
+■Android8.x で動作
+type OVERLAY
+
+# ClicksキーをCtrlキーに割り当て
+map key 15 ZENKAKU_HANKAKU
+
+# 丸４つキーをカーソル右に割り当て
+map key 125 DPAD_LEFT
+
+# 丸６つキーをカーソル右に割り当て
+map key 374 DPAD_RIGHT
+
+# マイクキーをCtrlキーに割り当て
+map key 582 CTRL_LEFT
