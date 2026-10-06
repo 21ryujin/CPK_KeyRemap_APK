@@ -9,9 +9,13 @@ Clicks Power Keyboard のキー割り当てを変更するAPKを配布するリ�
 ・丸４つキー：カーソル左  
 ・丸６つキー：カーソル右  
 ・マイクキー：Shiftキー  
-
+　
 ### 「A8K_ExKeyMo Keyboard Layout.apk」　※Android 8.x系で動作
-・楽天ミニ（C330）等向けと同じキーリマップです。
+・Clicksキー：全角／半角切り替えに割り当て  
+・丸４つキー：カーソル左  
+・丸６つキー：カーソル右   
+・マイクキー：Ctrlキー  
+なお、Ctrlキーは色々戦いましたが、頑なに効いてくれませんでした。  
 　
 ### 「M50s_ExKeyMo Keyboard Layout.apk」　※Moto edge50s PRO 向け
 ・楽天ミニ（C330）等向けと同じキーリマップです。  
