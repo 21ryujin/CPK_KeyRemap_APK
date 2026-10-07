@@ -22,9 +22,10 @@
 ### 「A8K_ExKeyMo Keyboard Layout.apk」　※Android 8.x系で動作
 ＜概要＞  
 　・Android 8.x以前の端末は、これを使ってください。  
-　**・Clicks Power Keyboardとスマホをペアリングしたら、電源ボタン＋Aキーを押下してください。**  
-　　⇒Androidモードに変更され、Ctrlキーが効くようになります。  
-　　⇒なお、電源ボタン＋Iキーで、元の状態（iOSモード）となります。  
+　　【注】Clicks Power Keyboardとスマホをペアリングしたら、電源ボタン＋Aキーを押下してください。  
+　　　　　⇒Androidモードに変更され、Ctrlキーが効くようになります。  
+　　　　　⇒なお、電源ボタン＋Iキーで、元の状態（iOSモード）となります。  
+  
 　・私の方で動作確認が取れている端末は、下記の通りです。  
  　　Xperia XZs（Android 8.0.0 auモデル）、Unihertz Jelly Pro（Android 8.1.0）
   
