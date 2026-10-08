@@ -36,9 +36,11 @@
 　・マイクキー：Shift  
   
 ### 「M50s_ExKeyMo Keyboard Layout.apk」
-・Moto edge50s PRO 向けです。
+・Moto edge50s PRO 向けです。  
 ・Android 9.x 以降向けと同じキーリマップです。  
-**・Clicks設定アプリで、Additional Settings を「Alt」にしてご使用ください。  **  
+・Clicks設定アプリで、下記を設定してください。  
+　⇒ Additional Settings を「Alt」に設定  
+　⇒ Tab Settings を「Tab」に設定  
 ・Clicks設定アプリをインストールしている場合で、Android 9.x 以降向けのAPKが動作しない場合は、試してみてください。
   
   
@@ -63,3 +65,8 @@
 ・「ExKeyMo」については、こちらのnote記事を参照いただければと思います。  
 　Androidタブレットの「死にキー」を有効活用する裏技  
 　https://note.com/xiaoxiongmao/n/nddd5b82f48b8  
+  
+  
+## Android端末で Clicks Power Keyboard を使うに当たってわかったことまとめ
+<img width="985" height="622" alt="20261008_Scan_Code" src="https://github.com/user-attachments/assets/f4581557-9e21-48b4-bfdb-733930d647fa" />
+
