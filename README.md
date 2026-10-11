@@ -5,44 +5,40 @@
 <img width="4000" height="451" alt="CPK_Key" src="https://github.com/user-attachments/assets/e665713c-e571-4181-a535-875be33fa4cf" />
   
   
+## おしらせ
+Ver.3 を公開しました。  
+このバージョンでは、Clicks設定アプリのインストール有無、Androidのバージョン、操作モード（Androidモード、iOSモード）、機種に関係なく、これ1つで賄えるようになりました。  
+  
+動作に関しては、下記環境で確認しています。  
+### ■Clicks Power Keyboard側
+　　・ファームウェアVer 1.1.2  
+
+### ■端末側
+　　・F(x) tec Pro1-X（LineageOS 23.2 = Android 16、Clicks設定アプリインストール済み）  
+　　・moto g7（LineageOS 22.2 = Android 15、Clicks設定アプリ未インストール）  
+　　・楽天mini　C330（Android 9）  
+　　・Unihertz Jelly-Pro（Android 8.1.0）  
+
+## APKのダウンロードはこちら  
+　　（リリースURL）  
+  
 ## APKのインストールで変更されるキー
-### 「ExKeyMo Keyboard Layout.apk」　※Android 9 以降で動作
-＜概要＞  
-・Android 9以降なら、まずはこれを使ってみてください。  
-・私の方で動作確認が取れている端末は、下記の通りです。  
-　楽天ミニ、moto g7（Android 9、LineageOS 22.2）、F(x)tec Pro1-X（LineageOS 23.2）  
+・Ctrlキー：iOSモードでCtrlキーが有効化されます  
+・Clicksキー：全角／半角切り替え  
+・丸４つキー：カーソル左  
+・丸６つキー：カーソル右  
+・マイクキー：Shift  
   
-＜キーリマップ＞  
-　・Ctrlキー：有効化（Clicks設定アプリがなくても有効化されるようにします）  
-　・Clicksキー：全角／半角切り替え  
-　・丸４つキー：カーソル左  
-　・丸６つキー：カーソル右  
-　・マイクキー：Shift  
-  
-### 「A8K_ExKeyMo Keyboard Layout.apk」　※Android 8.x系で動作
-＜概要＞  
-　・Android 8.x以前の端末は、これを使ってください。  
-　　【注】Clicks Power Keyboardとスマホをペアリングしたら、電源ボタン＋Aキーを押下してください。  
-　　　　　⇒Androidモードに変更され、Ctrlキーが効くようになります。  
-　　　　　⇒なお、電源ボタン＋Iキーで、元の状態（iOSモード）となります。  
-  
-　・私の方で動作確認が取れている端末は、下記の通りです。  
- 　　Xperia XZs（Android 8.0.0 auモデル）、Unihertz Jelly Pro（Android 8.1.0）
-  
-＜キーリマップ＞  
-　・Clicksキー：全角／半角切り替え  
-　・丸４つキー：カーソル左  
-　・丸６つキー：カーソル右   
-　・マイクキー：Shift  
-  
-### 「M50s_ExKeyMo Keyboard Layout.apk」
-・Moto edge50s PRO 向けです。  
-・Android 9.x 以降向けと同じキーリマップです。  
-・Clicks設定アプリで、下記を設定してください。  
-　⇒ Additional Settings を「Alt」に設定  
-　⇒ Tab Settings を「Tab」に設定  
-・Clicks設定アプリをインストールしている場合で、Android 9.x 以降向けのAPKが動作しない場合は、試してみてください。
-  
+### 利用する上での注意事項
+#### １）Android 8.xの端末については、この操作を行ってください
+　　Clicks Power Keyboardとスマホをペアリングしたら、電源ボタン＋Aキーを押下してください。  
+　　　⇒Androidモードに変更され、Ctrlキーが効くようになります。  
+　　　⇒なお、電源ボタン＋Iキーで、元の状態（iOSモード）となります。  
+
+#### ２）Clicks設定アプリをインストールしている場合は、下記を設定してください。  
+　　・Additional Settings を「Alt」に設定  
+　　・Tab Settings を「Tab」に設定  
+
   
 ## インストール方法
 １）APKをダウンロード  
@@ -56,7 +52,7 @@
 ３）画面を戻して、Clicks Power Keyboard のデフォルトレイアウトが「ExKeyMo Layout」になっていることを確認  
 ４）スマホを再起動  
   
-【注１】スマホを再起動しないと設定が反映されないので、必ず再起動を行ってください！！  
+【注１】設定してもキーの動きがおかしい場合は、端末の再起動を行ってください！  
 【注２】手順２～３は、端末によって若干メニューや辿り方が違う場合もあるので、雰囲気でその辺掴んでくださいｗ  
   
   
