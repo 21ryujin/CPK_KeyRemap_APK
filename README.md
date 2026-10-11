@@ -6,8 +6,8 @@
   
   
 ## おしらせ
-Ver.3 を公開しました。  
-このバージョンでは、Clicks設定アプリのインストール有無、Androidのバージョン、操作モード（Androidモード、iOSモード）、機種に関係なく、これ1つで賄えるようになりました。  
+Ver.3 をリリースしました。  
+このバージョンでは、Clicks設定アプリのインストール有無、Androidのバージョン、操作モード（Androidモード、iOSモード）、機種に関係なく、これ１つで賄えるようになりました。  
   
 動作に関しては、下記環境で確認しています。  
 ### ■Clicks Power Keyboard側
@@ -19,8 +19,9 @@ Ver.3 を公開しました。
 　　・楽天mini　C330（Android 9）  
 　　・Unihertz Jelly-Pro（Android 8.1.0）  
 
-## APKのダウンロードはこちら  
-　　（リリースURL）  
+## APKのダウンロードはこちら
+　　https://github.com/21ryujin/CPK_KeyRemap_APK/releases/tag/Ver.3
+　　ExKeyMo.Keyboard.Layout.apk をダウンロードしてください。
   
 ## APKのインストールで変更されるキー
 ・Ctrlキー：iOSモードでCtrlキーが有効化されます  
