@@ -20,8 +20,8 @@ Ver.3 をリリースしました。
 　　・Unihertz Jelly-Pro（Android 8.1.0）  
 
 ## APKのダウンロードはこちら
-　　https://github.com/21ryujin/CPK_KeyRemap_APK/releases/tag/Ver.3
-　　ExKeyMo.Keyboard.Layout.apk をダウンロードしてください。
+　　https://github.com/21ryujin/CPK_KeyRemap_APK/releases/tag/Ver.3  
+　　ExKeyMo.Keyboard.Layout.apk をダウンロードしてください。  
   
 ## APKのインストールで変更されるキー
 ・Ctrlキー：iOSモードでCtrlキーが有効化されます  
@@ -51,9 +51,9 @@ Ver.3 をリリースしました。
 １）Clicks Power Keyboard に接続  
 ２）設定 ＞ システム ＞ 言語と入力 ＞ 物理キーボード ＞ Clicks Power Keyboard の表示をタップ ＞ キーボードレイアウトの設定 ＞ ExKeyMo Layout のみを選択  
 ３）画面を戻して、Clicks Power Keyboard のデフォルトレイアウトが「ExKeyMo Layout」になっていることを確認  
-４）スマホを再起動  
+４）メモアプリなどで動作を確認
   
-【注１】設定してもキーの動きがおかしい場合は、端末の再起動を行ってください！  
+【注１】上記の設定してもキーの動きがおかしい場合は、端末の再起動を行ってください！  
 【注２】手順２～３は、端末によって若干メニューや辿り方が違う場合もあるので、雰囲気でその辺掴んでくださいｗ  
   
   
