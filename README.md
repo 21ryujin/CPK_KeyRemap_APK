@@ -56,13 +56,16 @@ Ver.3 をリリースしました。
 【注１】上記の設定してもキーの動きがおかしい場合は、端末の再起動を行ってください！  
 【注２】手順２～３は、端末によって若干メニューや辿り方が違う場合もあるので、雰囲気でその辺掴んでくださいｗ  
   
+    
+## 「ExKeyMo」について
+・「ExKeyMo」の導入や使い方について、こちらのnote記事を大いに参考にさせていただきました。  
+　Androidタブレットの「死にキー」を有効活用する裏技  
+　https://note.com/xiaoxiongmao/n/nddd5b82f48b8  
+・「ExKeyMo」の導入について、躓いたことや、上記の記事を補完するする形でnote記事を書いてみました。参考にしていただければ幸いです。
+　https://note.com/21ryujin/n/n664cf68a6ee1
   
 ## Complex_code.txt について
 ・「ExKeyMo」を使ってリマップ用のAPKをビルドしたい方用の参考用コードです。  
-・「ExKeyMo」については、こちらのnote記事を参照いただければと思います。  
-　Androidタブレットの「死にキー」を有効活用する裏技  
-　https://note.com/xiaoxiongmao/n/nddd5b82f48b8  
-  
   
 ## Android端末で Clicks Power Keyboard を使うに当たってわかったことまとめ
 <img width="985" height="622" alt="20261008_Scan_Code" src="https://github.com/user-attachments/assets/f4581557-9e21-48b4-bfdb-733930d647fa" />
