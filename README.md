@@ -20,8 +20,8 @@ Ver.3 をリリースしました。
 　　・Unihertz Jelly-Pro（Android 8.1.0）  
 
 ## APKのダウンロードはこちら
-　　https://github.com/21ryujin/CPK_KeyRemap_APK/releases/tag/Ver.3  
-　　ExKeyMo.Keyboard.Layout.apk をダウンロードしてください。  
+https://github.com/21ryujin/CPK_KeyRemap_APK/releases/tag/Ver.3  
+ExKeyMo.Keyboard.Layout.apk をダウンロードしてください。  
   
 ## APKのインストールで変更されるキー
 ・Ctrlキー：iOSモードでCtrlキーが有効化されます  
@@ -70,4 +70,7 @@ Ver.3 をリリースしました。
   
 ## Android端末で Clicks Power Keyboard を使うに当たってわかったことまとめ
 <img width="985" height="622" alt="20261008_Scan_Code" src="https://github.com/user-attachments/assets/f4581557-9e21-48b4-bfdb-733930d647fa" />
-
+  
+## 他の Clicks Power Keyboard キーリマップ開発者の紹介
+0x0takuan さん  
+https://github.com/0x0takuan/ExKeyMo_Keyconfig4clicks
