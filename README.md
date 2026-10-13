@@ -62,8 +62,7 @@ Ver.3 をリリースしました。
 　Androidタブレットの「死にキー」を有効活用する裏技  
 　https://note.com/xiaoxiongmao/n/nddd5b82f48b8  
    
-・「ExKeyMo」の導入について、躓いたことなど、上記の記事を補完するする形でnote記事を書いてみました。  
-　参考にしていただければ幸いです🐱✨  
+・「ExKeyMo」の活用方法について、note記事を書いてみました…参考になれば幸いです🐱✨  
 　https://note.com/21ryujin/n/n664cf68a6ee1
   
 ## Complex_code.txt について
